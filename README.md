@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition-Modal
+# Handwritten-Digit-Recognition-Model
